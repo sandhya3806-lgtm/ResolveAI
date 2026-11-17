@@ -1,0 +1,6 @@
+{
+  "name": "ResolveAI — Intelligent Customer Query Management System",
+  "description": "AI-powered customer support platform that classifies queries, searches verified knowledge bases, generates evidence-based answers, and escalates complex tickets to human agents.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
